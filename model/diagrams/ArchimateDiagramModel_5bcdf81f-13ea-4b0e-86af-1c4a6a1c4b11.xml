@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tercera vista"
+    id="5bcdf81f-13ea-4b0e-86af-1c4a6a1c4b11">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="ffbf8596-6f05-41b2-a448-5cd5bdfa9894"
+      name="Group"
+      textAlignment="1">
+    <bounds
+        x="437"
+        y="198"
+        width="400"
+        height="140"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="ee217a68-9767-40e0-8b38-0ce74386c512">
+    <bounds
+        x="269"
+        y="142"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Location"
+        href="Location_ae53fcc7-4720-462b-a545-6b789c4a5934.xml#ae53fcc7-4720-462b-a545-6b789c4a5934"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="1cdb56ea-d1d5-4fd6-8d42-67f573ec4414">
+    <bounds
+        x="209"
+        y="353"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessEvent"
+        href="BusinessEvent_eb0b81fa-7608-4df7-b4ff-3b486fd2dc3e.xml#eb0b81fa-7608-4df7-b4ff-3b486fd2dc3e"/>
+  </children>
+</archimate:ArchimateDiagramModel>

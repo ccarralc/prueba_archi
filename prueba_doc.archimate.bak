@@ -4,13 +4,9 @@
   <folder name="Business" id="id-fb4070fd9e16407b9c3d080136f32e38" type="business">
     <element xsi:type="archimate:BusinessActor" name="Business Actor" id="id-a635799b530940a8921ff283ed3af766"/>
     <element xsi:type="archimate:BusinessRole" name="Business Role" id="id-a4128e723fe44a84aa7a4290bddab81b"/>
-    <element xsi:type="archimate:BusinessRole" name="Business Role" id="a2ff5801-c76f-4136-856c-efdff5d8238f"/>
-    <element xsi:type="archimate:BusinessFunction" name="Business Function" id="9a81fdb3-dbdd-442d-b040-9b776579d8ac"/>
   </folder>
   <folder name="Application" id="id-3c615dce3b334eef87f3e2b6eabf9292" type="application"/>
-  <folder name="Technology &amp; Physical" id="id-dc4315979f034f528248d8b18b09d325" type="technology">
-    <element xsi:type="archimate:Node" name="Node" id="90dd67b7-1391-442b-b748-4c7432b221dc"/>
-  </folder>
+  <folder name="Technology &amp; Physical" id="id-dc4315979f034f528248d8b18b09d325" type="technology"/>
   <folder name="Motivation" id="id-ce34a11cac3d453aa9d528419d982a1b" type="motivation"/>
   <folder name="Implementation &amp; Migration" id="id-242f542134534acca4290d1dd6a7321b" type="implementation_migration"/>
   <folder name="Other" id="id-c57035e65a2940749773ed1b52ca14b2" type="other"/>
@@ -25,17 +21,6 @@
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-b6307fffe72146cfb2e0898938741419" archimateElement="id-a4128e723fe44a84aa7a4290bddab81b">
         <bounds x="364" y="76" width="120" height="55"/>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="1f428b98-26aa-40c4-ad05-37ae982194db" archimateElement="90dd67b7-1391-442b-b748-4c7432b221dc">
-        <bounds x="129" y="272" width="120" height="55"/>
-      </child>
-    </element>
-    <element xsi:type="archimate:ArchimateDiagramModel" name="Prueba ubaldo" id="64b6306b-4f75-49f3-95e3-606db75b1e09">
-      <child xsi:type="archimate:DiagramObject" id="e9a71b76-21cc-4d4d-960f-70cd9016573b" archimateElement="a2ff5801-c76f-4136-856c-efdff5d8238f">
-        <bounds x="297" y="227" width="120" height="55"/>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="9c101b85-a01e-4cba-9859-e9ea177b02a1" archimateElement="9a81fdb3-dbdd-442d-b040-9b776579d8ac">
-        <bounds x="440" y="143" width="120" height="55"/>
       </child>
     </element>
   </folder>

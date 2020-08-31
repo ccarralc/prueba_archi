@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="(new model)" id="id-c23dd937c22341f8bd6a360a81c7c8db" version="4.6.0">
+  <folder name="Strategy" id="id-a88d565905314dbca868e7b249c9b72e" type="strategy"/>
+  <folder name="Business" id="id-fb4070fd9e16407b9c3d080136f32e38" type="business">
+    <element xsi:type="archimate:BusinessActor" name="Business Actor" id="id-a635799b530940a8921ff283ed3af766"/>
+    <element xsi:type="archimate:BusinessRole" name="Business Role" id="id-a4128e723fe44a84aa7a4290bddab81b"/>
+  </folder>
+  <folder name="Application" id="id-3c615dce3b334eef87f3e2b6eabf9292" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-dc4315979f034f528248d8b18b09d325" type="technology"/>
+  <folder name="Motivation" id="id-ce34a11cac3d453aa9d528419d982a1b" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="id-242f542134534acca4290d1dd6a7321b" type="implementation_migration"/>
+  <folder name="Other" id="id-c57035e65a2940749773ed1b52ca14b2" type="other"/>
+  <folder name="Relations" id="id-ac0e3c7e600d465180812fb9eb304a91" type="relations"/>
+  <folder name="Views" id="id-91cdb975b67141438cebc84b8caccef6" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-eb262743d4e84f30a2ce09efaaa6bf34">
+      <child xsi:type="archimate:Note" id="id-9a9bf366dce7433aa90f6c4fd5fa8e0b" textAlignment="1">
+        <bounds x="268" y="153" width="185" height="80"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-810e4ca1d46b4effb98e5ce948c15f8f" archimateElement="id-a635799b530940a8921ff283ed3af766">
+        <bounds x="603" y="100" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-b6307fffe72146cfb2e0898938741419" archimateElement="id-a4128e723fe44a84aa7a4290bddab81b">
+        <bounds x="364" y="76" width="120" height="55"/>
+      </child>
+    </element>
+  </folder>
+</archimate:model>

@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prueba ubaldo"
+    id="64b6306b-4f75-49f3-95e3-606db75b1e09">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e9a71b76-21cc-4d4d-960f-70cd9016573b">
+    <bounds
+        x="297"
+        y="227"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_a2ff5801-c76f-4136-856c-efdff5d8238f.xml#a2ff5801-c76f-4136-856c-efdff5d8238f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="9c101b85-a01e-4cba-9859-e9ea177b02a1">
+    <bounds
+        x="440"
+        y="143"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_9a81fdb3-dbdd-442d-b040-9b776579d8ac.xml#9a81fdb3-dbdd-442d-b040-9b776579d8ac"/>
+  </children>
+</archimate:ArchimateDiagramModel>
